@@ -1,0 +1,6 @@
+bin/*
+.classpath
+META-INF/*
+.project
+.settings
+
